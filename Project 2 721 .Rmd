@@ -1,0 +1,12 @@
+---
+title: "Project 2 721"
+author: "Tatyana Bowers"
+date: "2025-11-04"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Function example
